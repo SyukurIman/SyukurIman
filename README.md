@@ -12,8 +12,8 @@
 Pengembang perangkat lunak dengan minat khusus dalam pengembangan web dan kecerdasan buatan. Saya senang mengeksplorasi teknologi baru.
 
 ## 🔧 Keahlian
-- **Pengembangan Web:** HTML, CSS, JavaScript, Vue.js
-- **Bahasa Pemrograman:** Python, PHP, C++
+- **Pengembangan Web:** HTML, CSS, JavaScript, Vue.js, PHP, Golang, Laravel, SQL
+- **Bahasa Pemrograman:** Python, C++, Flutter, Kotlin, Node.js
 - **Kecerdasan Buatan:** Unsupervised Learning, Deep Learning
 - **Pengelolaan Versi:** Git, GitHub
 
