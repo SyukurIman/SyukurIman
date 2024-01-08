@@ -9,7 +9,7 @@
 </div>
 
 ## 🚀 Tentang Saya
-Pengembang perangkat lunak dengan minat khusus dalam pengembangan web dan kecerdasan buatan. Saya senang mengeksplorasi teknologi baru dan berkontribusi pada proyek-proyek sumber terbuka.
+Pengembang perangkat lunak dengan minat khusus dalam pengembangan web dan kecerdasan buatan. Saya senang mengeksplorasi teknologi baru.
 
 ## 🔧 Keahlian
 - **Pengembangan Web:** HTML, CSS, JavaScript, Vue.js
