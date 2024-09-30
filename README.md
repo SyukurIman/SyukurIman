@@ -25,7 +25,7 @@ Penelitian ini menggunakan algoritma K-Means - Agglomerative Clustering untuk me
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyukurIman&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Pendidikan
-- Mahasiswa Akhir Program Studi Informatika, Universitas Pembangunan Nasional "Veteran" Jawa Timur
+  - Lulus dengan IPK 3.87 Jurusan Informatika, Universitas Pembangunan Nasional "Veteran" Jawa Timur | 2020-2024
 
 ## 📬 Kontak
 - **Email:** ataiman30@gmail.com
